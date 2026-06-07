@@ -1,4 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="广东珠江",广东珠江高清1
 http://119.123.78.83:8086/hls/47/index.m3u8
+#EXTINF:-1 group-title="广东珠江",广东珠江高清2
+http://cdn2.163189.xyz/163189/gdzj
+#EXTINF:-1 group-title="广东珠江",广东珠江高清3
+https://gxyd.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8
 
