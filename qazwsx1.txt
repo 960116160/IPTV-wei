@@ -17,7 +17,7 @@ CHC影迷电影,http://go.bkpcp.top/mg/ymdy
 1905电影网,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
 新视觉HD,http://gat.bkpcp.top/ymg.php?id=mlzq
 经典影艺,rtmp://live.gxrb.com.cn/pull/red_movies_0501?m3u8?key=txiptv
-周星驰专场,https://isus.cc/php/huya.php?id=11336587
+周星驰专场,https://isus.cc/php/huya.php？id=11336587
 李连杰专场,https://isus.cc/php/huya.php?id=11342390
 刘德华专场,https://isus.cc/php/huya.php?id=11342424
 林正英专场,https://isus.cc/php/huya.php?id=11342421
