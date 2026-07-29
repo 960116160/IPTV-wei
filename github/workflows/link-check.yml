@@ -1,0 +1,35 @@
+name: Link check
+
+on:
+  push:
+  schedule:
+    - cron: '0 3 * * *' # daily at 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest运行于: ubuntu-latest
+    steps:步骤:
+      - name: Checkout repository      - 名称: 签出仓库
+        uses: actions/checkout@v4使用: actions/checkout@v4
+
+      - name: Set up Python      - 名称: 设置 Python
+        uses: actions/setup-python@v4用途: actions/setup-python@v4
+        with:使用使用：使用:
+          python-version: '3.11'Python 版本: '3.11'
+
+      - name: Install dependencies      - 名称: 安装依赖项
+        run: |运行: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run link checker      - 名称: 运行链接检查器
+        run: |运行: |
+          python3 scripts/check_links.py
+
+      - name: Upload results      - 名称: 上传结果
+        if: always()如果: 始终()
+        uses: actions/upload-artifact@v4使用: actions/upload-artifact@v4
+        with:使用:
+          name: link-check-results名称: 链接检查结果
+          path: results/link_check_results.json路径: results/link_check_results.json
