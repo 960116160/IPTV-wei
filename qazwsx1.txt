@@ -107,8 +107,6 @@ CCTV12,http://gslbserv.itv.cmvideo.cn:80/5325631075193490169/1.m3u8?channel-id=y
 CCTV13,http://gslbserv.itv.cmvideo.cn:80/6918130250570453526/1.m3u8?channel-id=ystenlive&Contentid=6918130250570453526&livemode=1&stbId=toShengfen&mode=1
 CCTV14,http://gslbserv.itv.cmvideo.cn:80/6113730085955692619/1.m3u8?channel-id=wasusyt&Contentid=6113730085955692619&livemode=1&stbId=toShengfen&mode=1
 CCTV15,http://gslbserv.itv.cmvideo.cn:80/4832596595465032187/1.m3u8?channel-id=ystenlive&Contentid=4832596595465032187&livemode=1&stbId=toShengfen&mode=1
-CCTV16,http://121.57.88.206:898/hls/16/index.m3u8
-CCTV17,http://121.57.88.206:898/hls/17/index.m3u8
 CCTV1,http://61.161.61.119:9004/hls/1/index.m3u8
 CCTV2,http://61.161.61.119:9004/hls/2/index.m3u8
 CCTV3,http://61.161.61.119:9004/hls/3/index.m3u8
@@ -623,15 +621,12 @@ CHC影迷电影,http://go.bkpcp.top/mg/ymdy
 洪金宝,https://www.goodiptv.club/huya/11279251
 埋堆堆,https://www.goodiptv.club/huya/23903123
 埋堆堆2,https://www.goodiptv.club/huya/23864973
-王晶电影,https://www.goodiptv.club/huya/11602058
-功夫电影,https://www.goodiptv.club/huya/11352941
 强森电影,https://www.goodiptv.club/huya/21059581
 金庸武侠,https://www.goodiptv.club/huya/11342435
 永夜星河,https://www.goodiptv.club/huya/23734169
 电影_武侠,https://www.goodiptv.club/huya/11342427
 电影_玄幻,https://www.goodiptv.club/huya/11342414
 电影_国产,https://www.goodiptv.club/huya/11352973
-电影_洪金宝,https://www.goodiptv.club/huya/11279251
 电影_斯坦森,https://www.goodiptv.club/huya/21059588
 电影_不挤影院,https://www.goodiptv.club/huya/11352897
 电影_许氏三杰,https://www.goodiptv.club/huya/11602033
@@ -668,15 +663,9 @@ CHC影迷电影,http://go.bkpcp.top/mg/ymdy
 埋堆堆 𝟚𝟞,https://www.goodiptv.club/huya/23749083
 哆啦A梦,https://www.goodiptv.club/huya/11601963
 猫和老鼠,https://www.goodiptv.club/huya/11352879
-刘德华电影,https://www.goodiptv.club/huya/11342424
-古天乐电影,https://www.goodiptv.club/huya/29982675
-李连杰电影,https://www.goodiptv.club/huya/11342390
 甄子丹电影,https://www.goodiptv.club/huya/11352935
 狄仁杰系列,https://www.goodiptv.club/huya/30080229
 沈腾电影,https://www.goodiptv.club/huya/11601968
-黄渤电影,https://www.goodiptv.club/huya/11352876
-强森电影,https://www.goodiptv.club/huya/21059581
 王晶电影,https://www.goodiptv.club/huya/11602058
-金庸武侠,https://www.goodiptv.club/huya/11342435
 功夫电影,https://www.goodiptv.club/huya/11352941
 贺岁电影,https://www.goodiptv.club/huya/11601986
