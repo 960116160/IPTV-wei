@@ -65,6 +65,10 @@ CCTV-卫生健康,http://107.150.60.122/live/wsjk.m3u8
 江西少儿家庭,http://107.150.60.122/live/jxtv6.m3u8
 江西新闻频道,http://107.150.60.122/live/jxtv7.m3u8
 🎞️电影直播,#genre#
+成龙电影,http://107.150.60.122/live/lbcl.m3u8
+周润发电影,http://107.150.60.122/live/lbzrf.m3u8
+周星驰电影,http://107.150.60.122/live/lbzxc.m3u8
+林正英影院,http://107.150.60.122/live/lblzy.m3u8
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
