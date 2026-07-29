@@ -83,6 +83,10 @@ CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC动作电影,http://go.bkpcp.top/mg/dzdy
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 CHC影迷电影,http://go.bkpcp.top/mg/ymdy
+淘电影,http://36.110.54.118:866/hls/21/index.m3u8
+淘剧场,http://36.110.54.118:866/hls/20/index.m3u8
+经典电影,http://222.214.208.34:59901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+华语影院,http://222.214.208.34:59901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 1905环球经典,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
 1905电影网,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
 新视觉HD,http://gat.bkpcp.top/ymg.php?id=mlzq
