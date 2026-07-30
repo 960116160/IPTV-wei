@@ -1,3 +1,4 @@
+1,https://live2.sailei.dpdns.org/static/sailei.m3u8
 频道,#genre#
 广东珠江高清1,https://2.fast.hidns.vip/163189/gdzj
 广东珠江高清2,http://198.204.228.26/live/gdzj.m3u8
