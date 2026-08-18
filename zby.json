@@ -1,26 +1,26 @@
 
-[
+"lives"“生命”: [
   {
-    "name": "🦸┃tangTV「直播」",
-    "type": 0,
+    "name": "🦸┃tangTV「直播」",“name”: “┃tangTV『直播』”,
+    "type": 0,"类型": 0,
     "playerType": 1,
     "url": "https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u"
   },
   {
     "name": "😳️┃港湾「直播」",
-    "type": 0,
-    "playerType": 1,
+    "type": 0,"类型": 0,
+    "playerType""玩家类型": 1,
     "url": "http://pan.wdrjk.top/down.php/aad56aa7a7610097bc103077064f0bcb.txt"
   },
   {
     "name": "🧊┃全球揾定「華哥TV」",
-    "type": 0,
+    "type": 0,"类型": 0,
     "playerType": 1,
     "url": "https://gh-proxy.org/https://raw.githubusercontent.com/swhtv/1/refs/heads/main/swtvlive"
   },
   {
     "name": "😟️️┃电视家「直播」",
-    "type": 0,
+    "type": 0,"类型": 0,
     "playerType": 1,
     "url": "https://down.nigx.cn/dsj.zzong6599.workers.dev"
   },
