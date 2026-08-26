@@ -1471,8 +1471,3 @@ DAZN2,rtmp://f13h.mine.nu/sat/tv741
 凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/
-赞赏支持,#genre#
-维护不易,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
-感谢支持,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
-觉得不错,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
-可以打赏,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
